@@ -3,6 +3,10 @@ package AgeOfTheUniverse.cosmology
 import kotlin.math.sqrt
 import kotlin.math.pow
 
+
+/**
+ * LambdaCDM model implementation.
+ */
 class LambdaCdmImpl(
     private val Om: Double = CosmologyConstants.OMEGA_MATTER_NOW,
     private val Or: Double = CosmologyConstants.OMEGA_RADIATION_NOW,

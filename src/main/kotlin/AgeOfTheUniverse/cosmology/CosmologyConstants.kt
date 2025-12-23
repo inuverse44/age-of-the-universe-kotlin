@@ -1,7 +1,7 @@
 package AgeOfTheUniverse.cosmology
 
 /**
- * Constants for Cosmological calculations based on the Lambda-CDM model.
+ * Constants for Cosmological calculations based on Planck 2018 results.
  */
 object CosmologyConstants {
 

@@ -1,0 +1,25 @@
+# Gradle files
+.gradle/
+build/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+gen/
+
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
+
+# macOS
+.DS_Store
+
+# Gradle Wrapper (If you want to keep them in git, remove these)
+# .gradle-wrapper/
+# gradlew
+# gradlew.bat
+# gradle/wrapper/gradle-wrapper.jar
+# gradle/wrapper/gradle-wrapper.properties
