@@ -34,12 +34,12 @@ AgeOfTheUniverse/
 ## サポートされている機能
 
 ### 宇宙論モデル (Cosmology Models)
-1.  LambdaCDM ( $\Lambda$ CDM): 暗黒物質（Dark Matter）と暗黒エネルギー（Dark Energy / Cosmological Constant）を考慮した、現代の標準的な宇宙モデル。
-2.  Matter Dominated Flat Model: 宇宙定数と放射エネルギーがなく、物質のみで構成される平坦な宇宙モデル。理論値として $t_0 = \frac{2}{3}H_0^{-1}$ が知られています。
+1.  $\Lambda$ CDM: 暗黒物質（Dark Matter）と暗黒エネルギー（Dark Energy / Cosmological Constant）を考慮した、現代の標準的な宇宙モデル。
+2.  Matter Dominated Flat Model（平坦時空の物質優勢宇宙）: 宇宙定数と放射エネルギーがなく、物質のみで構成される平坦な宇宙モデル。理論値として $t_0 = \frac{2}{3}H_0^{-1}$ が知られています。
 
 ### 数値積分手法 (Integration Strategies)
-1.  Simpson's Rule (シンプソン法): 放物線近似を用いる手法。一般に高精度です。
-2.  Trapezoidal Rule (台形公式): 線形近似を用いる基本的な手法。
+1.  シンプソン法: 放物線近似を用いる手法。一般に高精度です。
+2.  台形公式: 線形近似を用いる基本的な手法。
 
 ## 実行方法
 
